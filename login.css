@@ -1,0 +1,19 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #b90000;
+    display: grid;
+}
+form{
+    display: grid;
+    width: 400px;
+    background-color: #ffd620;
+    padding: 20px;
+    border-radius: 5px;
+}
+h2{
+    margin-bottom: 20px;
+    text-align: center
+}

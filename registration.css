@@ -1,0 +1,15 @@
+body{
+    background-image:url('https://footwearnews.com/wp-content/uploads/2018/04/nike-adidas.jpg');
+    background-blend-mode: multiply;
+    background-position: center;
+    background-size: cover;
+    --main-text-color: #ffffff;
+    
+}
+
+@media(max-width: 991px){
+    .sidebar{
+        background-color: rgba(255, 255, 255, 0.15);
+        backdrop-filter: blur(10px);
+    }
+}
